@@ -47,7 +47,7 @@ function importComponents() {
 
 // get trip from url
 function getTrip(trip) {
-  fetch('../trips/' + trip + '.o').then(async (response) => {
+  fetch('./trips/' + trip + '.o').then(async (response) => {
     const text = await response.text()
     // append to body
     document.body.innerHTML += oToHtml(text)
