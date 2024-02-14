@@ -11,6 +11,25 @@ function showMoreOnCard(host) {
   host.isCollapsed = !host.isCollapsed
 }
 
+function initialButtonShowMore(host) {
+  setTimeout(() => {
+    if (host.height === 'fit-content') return false
+    const innerContent = host.shadowRoot.querySelector('.inner')
+    console.log(innerContent.scrollHeight, host.height)
+    if (isNaN(parseInt(host.height))) return false
+    if (innerContent.scrollHeight <= parseInt(host.height)) return false
+    host.hasShowMoreButton = true
+  }, 100)
+}
+
+function isNumeric(str) {
+  if (typeof str != 'string') return false // we only process strings!
+  return (
+    !isNaN(str) && // use type coercion to parse the _entirety_ of the string (`parseFloat` alone does not do this)...
+    !isNaN(parseFloat(str))
+  ) // ...and ensure strings of whitespace fail
+}
+
 export default define({
   tag: 'o-card',
   gap: '10px',
@@ -20,10 +39,12 @@ export default define({
   paddingY: '17px',
   background: 'var(--gray-2)',
   isCollapsed: true,
-  hasShowMoreMask: ({ isCollapsed, height }) =>
-    height !== 'fit-content' && isCollapsed,
+  hasShowMoreButton: false,
+  hasShowMoreMask: ({ hasShowMoreButton, isCollapsed, height }) =>
+    hasShowMoreButton && height !== 'fit-content' && isCollapsed,
   render: ({
     isCollapsed,
+    hasShowMoreButton,
     hasShowMoreMask,
     gap,
     width,
@@ -37,7 +58,7 @@ export default define({
         <div class="inner"><slot></slot></div>
         ${hasShowMoreMask && html`<div class="show-more-mask"></div>`}
       </div>
-      ${height !== 'fit-content' &&
+      ${hasShowMoreButton &&
       html`
         <o-button
           class="show-more"
@@ -50,15 +71,16 @@ export default define({
           ${isCollapsed ? 'Show more' : 'Show less'}
         </o-button>
       `}
+      ${initialButtonShowMore}
     `.css`
       :host {
         --gap: ${gap};
-        --width: ${width};
-        --height: ${height};
+        --width: ${isNumeric(width) ? width + 'px' : width};
+        --height: ${isNumeric(height) ? height + 'px' : height};
         --padding-x: ${paddingX};
         --padding-y: ${paddingY};
         --background: ${background};
-        width: var(--width);
+        width: min(var(--width), 100%);
         height: auto;
         font-family: 'Encode Sans Semi Condensed', sans-serif;
         position: relative;

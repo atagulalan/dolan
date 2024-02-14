@@ -23,7 +23,7 @@ const icons = {
     <circle cx="8" cy="8" r="7" stroke="#8D96AE" stroke-width="2"/>
     <circle cx="8" cy="8" r="1.5" stroke="var(--blue)" stroke-width="4"/>
     `
-  },
+  }
 }
 
 export default define({

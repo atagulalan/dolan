@@ -2,7 +2,10 @@ import { TRIPS } from '../trips/trips.js'
 
 const INDENT_SIZE = 2
 function oToHtml(o) {
-  let lines = o.trim().split('\n')
+  let lines = o
+    .trim()
+    .split('\n')
+    .map((line) => line.replace(/\r/g, ''))
   let html = ''
   let stack = []
   for (let line of lines) {
@@ -45,6 +48,23 @@ function importComponents() {
   })
 }
 
+function initMasonry() {
+  setTimeout(() => {
+    macyInstance = Macy({
+      container: '.test',
+      trueOrder: false,
+      margin: 10,
+      columns: 4,
+      breakAt: {
+        1600: 3,
+        1200: 2,
+        800: 1,
+        400: 1
+      }
+    })
+  }, 1000)
+}
+
 // get trip from url
 function getTrip(trip) {
   fetch('./trips/' + trip + '.o').then(async (response) => {
@@ -52,6 +72,7 @@ function getTrip(trip) {
     // append to body
     document.body.innerHTML += oToHtml(text)
     importComponents()
+    initMasonry()
   })
 }
 

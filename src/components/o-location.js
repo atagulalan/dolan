@@ -7,7 +7,7 @@ export default define({
   tag: 'o-location',
   image: 'https://source.unsplash.com/random/800x600',
   to: '#',
-  render: ({image, to}) => {
+  render: ({ image, to }) => {
     return html`
       <o-layout flex-direction="row" flex-wrap="wrap">
         <o-image src="${image}" width="100%" height="300px"></o-image>
@@ -15,6 +15,12 @@ export default define({
           <slot></slot>
         </o-link>
       </o-layout>
+    `.css`
+      :host {
+        width: -webkit-fill-available;
+        height: auto;
+        overflow: hidden;
+      }
     `
   }
 })

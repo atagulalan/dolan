@@ -3,9 +3,10 @@ import './o-layout.js'
 
 export default define({
   tag: 'o-list',
-  render: () => {
+  justify: 'flex-start',
+  render: ({ justify }) => {
     return html`
-      <o-layout flex-direction="row" flex-wrap="wrap">
+      <o-layout flex-direction="row" flex-wrap="wrap" justify="${justify}">
         <slot></slot>
       </o-layout>
     `
