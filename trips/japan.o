@@ -160,7 +160,7 @@ o-list[justify=center class=test]
       | Varışınızda, Japonya'da internete bağlanmanın yollarını öğrenmek isteyebilirsiniz. Bu konuda Japonya'da kullanılabilecek bir yerel veri SIM kartı veya grup halinde seyahat ediyorsanız paylaşılabilir bir WiFi router satın almak iki yaygın yöntemdir. Bu seçenekleri havalimanında bulabilirsiniz, hatta bazı şirketler önceden internet üzerinden rezervasyon yapma olanağı sunar ve ardından sadece varışta router veya SIM kartınızı almanız gerekir. 
     o-line
     o-sub-title IC Kart
-    o-image[src="images/ic-cards.png"]
+    o-image[src="images/japan/ic-cards.png"]
     o-item[important title="Önemli"]
       | IC çip sıkıntısı nedeniyle Suica ve Pasmo'nun satışı şu anda bir sonraki duyuruya kadar askıya alındı, ancak Welcome Suica ve Pasmo Passport kartları mevcut olmaya devam ediyor. Pasmo Passport Tokyo genelinde satışta kalırken, Welcome Suica'nın satışı geçici olarak sadece Haneda Havaalanı ile sınırlı. 
     o-comment
@@ -175,144 +175,220 @@ o-list[justify=center class=test]
   o-card[height=300 width=400]
     o-title Tokyo
     o-list
-      o-location[image="images/tokyo/0.jpg" to="https://maps.app.goo.gl/V8uRCHgbecXfjgdBA"] Disneyland & Disneysea
-      o-location[image="images/tokyo/1.jpg" to="https://maps.app.goo.gl/3Yv8P71iA1vVCYaBA"] Teamlab Borderless 🎫
-      o-location[image="images/tokyo/2.jpg" to="https://maps.app.goo.gl/nnJV1tFDc1f1wMDN6"] Teamlab Planets 🎫
-      o-location[image="images/tokyo/3.jpg" to="https://maps.app.goo.gl/ZsE8vVM9LLSECyDR7"] Ghibli Museum 🎫
-      o-location[image="images/tokyo/4.jpg" to="https://maps.app.goo.gl/4FduSeDcLuZoktk67"] Shibuya Sky 🎫
-      o-location[image="images/tokyo/5.jpg" to="https://maps.app.goo.gl/GtouzQW9cgY8p62V6"] Tokyo Tower
-      o-location[image="images/tokyo/6.jpg" to="https://maps.app.goo.gl/qFVRjrZc1tnXBXJv5"] Omoide Yokocho
-      o-location[image="images/tokyo/7.jpg" to="https://maps.app.goo.gl/jSQSYHM7Qdqpyjkk6"] Yomiuri Land
-      o-location[image="images/tokyo/8.jpg" to="https://maps.app.goo.gl/84ww7moSuQZyYzpcA"] Shibuya Crossing
-      o-location[image="images/tokyo/9.jpg" to="https://maps.app.goo.gl/ur1zz8qnv37YYVLx8"] Shichirigahama
-      o-location[image="images/tokyo/10.jpg" to="https://maps.app.goo.gl/8bLQ42xUjCi3Scn37"] Chigasaki City Museum Of Art
-      o-location[image="images/tokyo/11.jpg" to="https://maps.app.goo.gl/1hJZGTDyVkfakrJy9"] Koizumi Inari Shrine (Gunma)
-      o-location[image="images/tokyo/12.jpg" to="https://maps.app.goo.gl/xLXsybK5hgjNQr999"] Gotokuji Temple
-      o-location[image="images/tokyo/13.jpg" to="https://maps.app.goo.gl/LsNGrFqJeR5ngqWM9"] Nezu Shrine
-      o-location[image="images/tokyo/14.jpg" to="https://maps.app.goo.gl/is7sKoxkJDTQi9Yj6"] Pokémon Café
-      o-location[image="images/tokyo/15.jpg" to="https://maps.app.goo.gl/EUoNApB9QuxbF5LdA"] Kotoku-In
-      o-location[image="images/tokyo/16.jpg" to="https://maps.app.goo.gl/ebSGJr3ENgaQHFSa8"] Sensō-Ji
-      o-location[image="images/tokyo/17.jpg" to="https://maps.app.goo.gl/tRFRqaXCcTeCersc9"] Meiji Jingu
-      o-location[image="images/tokyo/18.jpg" to="https://maps.app.goo.gl/h7pHbZzejyPpaLCU6"] Kichijōji Petit Mura
-      o-location[image="images/tokyo/19.jpg" to="https://maps.app.goo.gl/KCCPgomnZpxzcw8CA"] Shinjuku Gyoen
-      o-location[image="images/tokyo/20.jpg" to="https://maps.app.goo.gl/jqCDPSaRqWAxMP1K9"] Hokokuji Temple
-      o-location[image="images/tokyo/21.jpg" to="https://maps.app.goo.gl/D2B3QXhTf8nfGpLU7"] Takagi Shrine
-      o-location[image="images/tokyo/22.jpg" to="https://maps.app.goo.gl/y7XLVM9CTUVBW7Sh9"] Odaiba
-      o-location[image="images/tokyo/23.jpg" to="https://maps.app.goo.gl/fKzS7CCmKwvPZXvj8"] Yellow Submarine (Akihabara RPG Store)
-      o-location[image="images/tokyo/24.jpg" to="https://maps.app.goo.gl/vpkAt2i98Axmecp9A"] Role&Roll Station (Akihabara RPG Store)
-      o-location[image="images/tokyo/25.jpg" to="https://maps.app.goo.gl/uQk3wE4BRH9PC2CZ9"] Bookoff Shinjuku Station West Exit Store
-      o-location[image="images/tokyo/26.jpg" to="https://maps.app.goo.gl/o1SQcP1gsHqTxYAM6"] Pokemon Centre (Tokyo Skytree)
-      o-location[image="images/tokyo/27.jpg" to="https://maps.app.goo.gl/WsnnKdgUyYsNjCuV8"] Ghibli Store (Tokyo Skytree)
-      o-location[image="images/tokyo/28.jpg" to="https://maps.app.goo.gl/GHBp67Jys3eZf5rq7"] Ghibli Donguri Republic Tokyo Station Store
-      o-location[image="images/tokyo/29.jpg" to="https://maps.app.goo.gl/KMxQKs2bDUHdti9n8"] Harry Potter Cafe (Bölgede dükkanlar var)
-      o-location[image="images/tokyo/30.jpg" to="https://maps.app.goo.gl/Pf4EVJogyTawwbZq6"] Tokyo Kimono Shoes
+      o-location[image="images/japan/tokyo/0.jpg" to="https://maps.app.goo.gl/V8uRCHgbecXfjgdBA"] Disneyland & Disneysea
+      o-location[image="images/japan/tokyo/1.jpg" to="https://maps.app.goo.gl/3Yv8P71iA1vVCYaBA"] Teamlab Borderless 🎫
+      o-location[image="images/japan/tokyo/2.jpg" to="https://maps.app.goo.gl/nnJV1tFDc1f1wMDN6"] Teamlab Planets 🎫
+      o-location[image="images/japan/tokyo/3.jpg" to="https://maps.app.goo.gl/ZsE8vVM9LLSECyDR7"] Ghibli Museum 🎫
+      o-location[image="images/japan/tokyo/4.jpg" to="https://maps.app.goo.gl/4FduSeDcLuZoktk67"] Shibuya Sky 🎫
+      o-location[image="images/japan/tokyo/5.jpg" to="https://maps.app.goo.gl/GtouzQW9cgY8p62V6"] Tokyo Tower
+      o-location[image="images/japan/tokyo/6.jpg" to="https://maps.app.goo.gl/qFVRjrZc1tnXBXJv5"] Omoide Yokocho
+      o-location[image="images/japan/tokyo/7.jpg" to="https://maps.app.goo.gl/jSQSYHM7Qdqpyjkk6"] Yomiuri Land
+      o-location[image="images/japan/tokyo/8.jpg" to="https://maps.app.goo.gl/84ww7moSuQZyYzpcA"] Shibuya Crossing
+      o-location[image="images/japan/tokyo/9.jpg" to="https://maps.app.goo.gl/ur1zz8qnv37YYVLx8"] Shichirigahama
+      o-location[image="images/japan/tokyo/10.jpg" to="https://maps.app.goo.gl/8bLQ42xUjCi3Scn37"] Chigasaki City Museum Of Art
+      o-location[image="images/japan/tokyo/11.jpg" to="https://maps.app.goo.gl/1hJZGTDyVkfakrJy9"] Koizumi Inari Shrine (Gunma)
+      o-location[image="images/japan/tokyo/12.jpg" to="https://maps.app.goo.gl/xLXsybK5hgjNQr999"] Gotokuji Temple
+      o-location[image="images/japan/tokyo/13.jpg" to="https://maps.app.goo.gl/LsNGrFqJeR5ngqWM9"] Nezu Shrine
+      o-location[image="images/japan/tokyo/14.jpg" to="https://maps.app.goo.gl/is7sKoxkJDTQi9Yj6"] Pokémon Café
+      o-location[image="images/japan/tokyo/15.jpg" to="https://maps.app.goo.gl/EUoNApB9QuxbF5LdA"] Kotoku-In
+      o-location[image="images/japan/tokyo/16.jpg" to="https://maps.app.goo.gl/ebSGJr3ENgaQHFSa8"] Sensō-Ji
+      o-location[image="images/japan/tokyo/17.jpg" to="https://maps.app.goo.gl/tRFRqaXCcTeCersc9"] Meiji Jingu
+      o-location[image="images/japan/tokyo/18.jpg" to="https://maps.app.goo.gl/h7pHbZzejyPpaLCU6"] Kichijōji Petit Mura
+      o-location[image="images/japan/tokyo/19.jpg" to="https://maps.app.goo.gl/KCCPgomnZpxzcw8CA"] Shinjuku Gyoen
+      o-location[image="images/japan/tokyo/20.jpg" to="https://maps.app.goo.gl/jqCDPSaRqWAxMP1K9"] Hokokuji Temple
+      o-location[image="images/japan/tokyo/21.jpg" to="https://maps.app.goo.gl/D2B3QXhTf8nfGpLU7"] Takagi Shrine
+      o-location[image="images/japan/tokyo/22.jpg" to="https://maps.app.goo.gl/y7XLVM9CTUVBW7Sh9"] Odaiba
+      o-location[image="images/japan/tokyo/23.jpg" to="https://maps.app.goo.gl/fKzS7CCmKwvPZXvj8"] Yellow Submarine (Akihabara RPG Store)
+      o-location[image="images/japan/tokyo/24.jpg" to="https://maps.app.goo.gl/vpkAt2i98Axmecp9A"] Role&Roll Station (Akihabara RPG Store)
+      o-location[image="images/japan/tokyo/25.jpg" to="https://maps.app.goo.gl/uQk3wE4BRH9PC2CZ9"] Bookoff Shinjuku Station West Exit Store
+      o-location[image="images/japan/tokyo/26.jpg" to="https://maps.app.goo.gl/o1SQcP1gsHqTxYAM6"] Pokemon Centre (Tokyo Skytree)
+      o-location[image="images/japan/tokyo/27.jpg" to="https://maps.app.goo.gl/WsnnKdgUyYsNjCuV8"] Ghibli Store (Tokyo Skytree)
+      o-location[image="images/japan/tokyo/28.jpg" to="https://maps.app.goo.gl/GHBp67Jys3eZf5rq7"] Ghibli Donguri Republic Tokyo Station Store
+      o-location[image="images/japan/tokyo/29.jpg" to="https://maps.app.goo.gl/KMxQKs2bDUHdti9n8"] Harry Potter Cafe (Bölgede dükkanlar var)
+      o-location[image="images/japan/tokyo/30.jpg" to="https://maps.app.goo.gl/Pf4EVJogyTawwbZq6"] Tokyo Kimono Shoes
+      o-location[image="images/japan/tokyo/31.jpg" to="https://maps.app.goo.gl/Vwokac4SjfLnSe1KA"] Nakameguro
   o-card[height=300 width=400]
     o-title Fuji
     o-list
-      o-location[image="images/fuji/0.jpg" to="https://maps.app.goo.gl/hFG5iVtTtxpq6SUc9"] Lake Kawaguchi
-      o-location[image="images/fuji/1.jpg" to="https://maps.app.goo.gl/QUW14jdbSFLnZCUS7"] Kawaguchi Asama Shrine
-      o-location[image="images/fuji/2.jpg" to="https://maps.app.goo.gl/KcGv6F7PMV2ZrDPcA"] Shimoyoshida Honcho Street
-      o-location[image="images/fuji/3.jpg" to="https://maps.app.goo.gl/uvdQE4XHXyjPQJFAA"] Arakurayama Sengen Park
-      o-location[image="images/fuji/4.jpg" to="https://maps.app.goo.gl/eKv8SxAq6yX8Mk7K6"] Fujisansaku Park
-      o-location[image="images/fuji/5.jpg" to="https://maps.app.goo.gl/1KJSDnQLsHhrU3sz9"] Oishi Park
-      o-location[image="images/fuji/6.jpg" to="https://maps.app.goo.gl/4Xm15C2hZFdYLB8b8"] Oike Park
-      o-location[image="images/fuji/7.jpg" to="https://maps.app.goo.gl/nYQjp5GXfQAjEGVb8"] Oshino Hakkai Springs
-      o-location[image="images/fuji/8.jpg" to="https://maps.app.goo.gl/tK8osdqaJxUQs5ig8"] Fuji-Q Highland & Naruto x Boruto
-      o-location[image="images/fuji/9.jpg" to="https://maps.app.goo.gl/eHmVDinLJDafbRb69"] Fujiyama Twin Terrace*
+      o-location[image="images/japan/fuji/0.jpg" to="https://maps.app.goo.gl/hFG5iVtTtxpq6SUc9"] Lake Kawaguchi
+      o-location[image="images/japan/fuji/1.jpg" to="https://maps.app.goo.gl/QUW14jdbSFLnZCUS7"] Kawaguchi Asama Shrine
+      o-location[image="images/japan/fuji/2.jpg" to="https://maps.app.goo.gl/KcGv6F7PMV2ZrDPcA"] Shimoyoshida Honcho Street
+      o-location[image="images/japan/fuji/3.jpg" to="https://maps.app.goo.gl/uvdQE4XHXyjPQJFAA"] Arakurayama Sengen Park
+      o-location[image="images/japan/fuji/4.jpg" to="https://maps.app.goo.gl/eKv8SxAq6yX8Mk7K6"] Fujisansaku Park
+      o-location[image="images/japan/fuji/5.jpg" to="https://maps.app.goo.gl/1KJSDnQLsHhrU3sz9"] Oishi Park
+      o-location[image="images/japan/fuji/6.jpg" to="https://maps.app.goo.gl/4Xm15C2hZFdYLB8b8"] Oike Park
+      o-location[image="images/japan/fuji/7.jpg" to="https://maps.app.goo.gl/nYQjp5GXfQAjEGVb8"] Oshino Hakkai Springs
+      o-location[image="images/japan/fuji/8.jpg" to="https://maps.app.goo.gl/tK8osdqaJxUQs5ig8"] Fuji-Q Highland & Naruto x Boruto
+      o-location[image="images/japan/fuji/9.jpg" to="https://maps.app.goo.gl/eHmVDinLJDafbRb69"] Fujiyama Twin Terrace*
   o-card[height=300 width=400]
     o-title Nagoya
     o-list
-      o-location[image="images/nagoya/0.jpg" to="https://maps.app.goo.gl/YRFkmxY868bkLsvB9"] Ghibli Park 🎫
-      o-location[image="images/nagoya/1.jpg" to="https://maps.app.goo.gl/zGTzcJ6UTyCiU9XH8"] Kiyosu Castle
-      o-location[image="images/nagoya/2.jpg" to="https://maps.app.goo.gl/HXMkCYLK6WH7mTHG8"] Nagoya Castle
-      o-location[image="images/nagoya/3.jpg" to="https://maps.app.goo.gl/hBL2Pi1iutGaTH3w5"] Osu Kannon
-      o-location[image="images/nagoya/4.jpg" to="https://maps.app.goo.gl/yN1BfNRD5uEgf5sKA"] Atsuta Shrine
+      o-location[image="images/japan/nagoya/0.jpg" to="https://maps.app.goo.gl/YRFkmxY868bkLsvB9"] Ghibli Park 🎫
+      o-location[image="images/japan/nagoya/1.jpg" to="https://maps.app.goo.gl/zGTzcJ6UTyCiU9XH8"] Kiyosu Castle
+      o-location[image="images/japan/nagoya/2.jpg" to="https://maps.app.goo.gl/HXMkCYLK6WH7mTHG8"] Nagoya Castle
+      o-location[image="images/japan/nagoya/3.jpg" to="https://maps.app.goo.gl/hBL2Pi1iutGaTH3w5"] Osu Kannon
+      o-location[image="images/japan/nagoya/4.jpg" to="https://maps.app.goo.gl/yN1BfNRD5uEgf5sKA"] Atsuta Shrine
   o-card[height=300 width=400]
     o-title Kyoto
     o-list
-      o-location[image="images/kyoto/0.jpg" to="https://maps.app.goo.gl/hx1bZyw378xt5Qgm6"] Pontocho Park
-      o-location[image="images/kyoto/1.jpg" to="https://maps.app.goo.gl/53pbBDPMrfmiUiAX7"] Kiyomizu-Dera
-      o-location[image="images/kyoto/2.jpg" to="https://maps.app.goo.gl/SgAzkELCu6toZG538"] Jonan-Gu Shrine (Sakura Bahçesi)
-      o-location[image="images/kyoto/3.jpg" to="https://maps.app.goo.gl/wqMDhCLQp5ZrA25bA"] Starbucks Coffee
-      o-location[image="images/kyoto/4.jpg" to="https://maps.app.goo.gl/GShs9nfthLLQbFDb7"] Otagi Nenbutsuji Temple 
-      o-location[image="images/kyoto/5.jpg" to="https://maps.app.goo.gl/1ebFHpwFYf51BpeD7"] Okazaki-Jinja Shrine
-      o-location[image="images/kyoto/6.jpg" to="https://maps.app.goo.gl/pzxwjptxyco8Ly6H8"] Fushimi Inari Taisha
-      o-location[image="images/kyoto/7.jpg" to="https://maps.app.goo.gl/D8JaExgdH8vkFUDS8"] Kinkaku-Ji
-      o-location[image="images/kyoto/8.jpg" to="https://maps.app.goo.gl/2QCxVCCD4wydpKbQ9"] Kifune Shrine
-      o-location[image="images/kyoto/9.jpg" to="https://maps.app.goo.gl/CBN2CesVqFNobJgS6"] Hakuryū-En Garden
-      o-location[image="images/kyoto/10.jpg" to="https://maps.app.goo.gl/rSXwqJHKTzewYVNZ8"] Kenninji Temple
-      o-location[image="images/kyoto/11.jpg" to="https://maps.app.goo.gl/rSXwqJHKTzewYVNZ8"] Arashiyama Bamboo Forest
-      o-location[image="images/kyoto/12.jpg" to="https://maps.app.goo.gl/y1Gdxv5ssyafbHTQA"] Hōkan-Ji Temple
-      o-location[image="images/kyoto/13.jpg" to="https://maps.app.goo.gl/GiZ2BMR4gnGd6Tjk8"] Gion District?
-      o-location[image="images/kyoto/14.jpg" to="https://maps.app.goo.gl/W59nxKUeGk8uw5xu7"] Adashino Nenbutsuji
-      o-location[image="images/kyoto/15.jpg" to="https://maps.app.goo.gl/oueWHdbV1wnYKNBV8"] Sannenzaka Path
-      o-location[image="images/kyoto/16.jpg" to="https://maps.app.goo.gl/ZrgTSS6nEkGofAhUA"] Maruyama Park
-      o-location[image="images/kyoto/17.jpg" to="https://maps.app.goo.gl/rMapkWSRDDhNDZbS8"] Yasaka Shrine
-      o-location[image="images/kyoto/18.jpg" to="https://maps.app.goo.gl/B1RzdtqjAq716NAd9"] Fushimi Minato Park
-      o-location[image="images/kyoto/19.jpg" to="https://maps.app.goo.gl/MgTBCwkuEnW1v12Q7"] Somekobo Yumeyusai Inc. (Müze)
-      o-location[image="images/kyoto/20.jpg" to="https://maps.app.goo.gl/YsWLc6kFMvZ3SG3J7"] Tenryu-Ji Temple
-      o-location[image="images/kyoto/21.jpg" to="https://maps.app.goo.gl/hgvWNuPqWWjw4PdU6"] Ukimido (Floating Hall)
-      o-location[image="images/kyoto/22.jpg" to="https://maps.app.goo.gl/9Lv3CGVXhQ19QY659"] Ryoanji Temple
-      o-location[image="images/kyoto/23.jpg" to="https://maps.app.goo.gl/KcJBjSHaK23DLYix8"] Daigo-Ji Temple
-      o-location[image="images/kyoto/24.jpg" to="https://maps.app.goo.gl/KxkFqakJLe5hN4sc7"] Ōiwa Shrine
-      o-location[image="images/kyoto/25.jpg" to="https://maps.app.goo.gl/rqmVuLj8YKQHaMRp9"] Uji (Yeşil Çay Match Meşhur)
-      o-location[image="images/kyoto/26.jpg" to="https://maps.app.goo.gl/y2Nte9YFe7BJcUCWA"] Nintendo Museum
-      o-location[image="images/kyoto/27.jpg" to="https://maps.app.goo.gl/oGto4Jd6WjDgvMsS7"] Byodo-In Temple
-      o-location[image="images/kyoto/28.jpg" to="https://maps.app.goo.gl/a7MKdZMkp9Kw2EYu8"] Nishiki Market
-      o-location[image="images/kyoto/29.jpg" to="https://maps.app.goo.gl/MTwaV6qb2rzDNJA47"] Arashiyama Station (Renden Line Tram)
+      o-location[image="images/japan/kyoto/0.jpg" to="https://maps.app.goo.gl/hx1bZyw378xt5Qgm6"] Pontocho Park
+      o-location[image="images/japan/kyoto/1.jpg" to="https://maps.app.goo.gl/53pbBDPMrfmiUiAX7"] Kiyomizu-Dera
+      o-location[image="images/japan/kyoto/2.jpg" to="https://maps.app.goo.gl/SgAzkELCu6toZG538"] Jonan-Gu Shrine (Sakura Bahçesi)
+      o-location[image="images/japan/kyoto/3.jpg" to="https://maps.app.goo.gl/wqMDhCLQp5ZrA25bA"] Starbucks Coffee
+      o-location[image="images/japan/kyoto/4.jpg" to="https://maps.app.goo.gl/GShs9nfthLLQbFDb7"] Otagi Nenbutsuji Temple 
+      o-location[image="images/japan/kyoto/5.jpg" to="https://maps.app.goo.gl/1ebFHpwFYf51BpeD7"] Okazaki-Jinja Shrine
+      o-location[image="images/japan/kyoto/6.jpg" to="https://maps.app.goo.gl/pzxwjptxyco8Ly6H8"] Fushimi Inari Taisha
+      o-location[image="images/japan/kyoto/7.jpg" to="https://maps.app.goo.gl/D8JaExgdH8vkFUDS8"] Kinkaku-Ji
+      o-location[image="images/japan/kyoto/8.jpg" to="https://maps.app.goo.gl/2QCxVCCD4wydpKbQ9"] Kifune Shrine
+      o-location[image="images/japan/kyoto/9.jpg" to="https://maps.app.goo.gl/CBN2CesVqFNobJgS6"] Hakuryū-En Garden
+      o-location[image="images/japan/kyoto/10.jpg" to="https://maps.app.goo.gl/rSXwqJHKTzewYVNZ8"] Kenninji Temple
+      o-location[image="images/japan/kyoto/11.jpg" to="https://maps.app.goo.gl/rSXwqJHKTzewYVNZ8"] Arashiyama Bamboo Forest
+      o-location[image="images/japan/kyoto/12.jpg" to="https://maps.app.goo.gl/y1Gdxv5ssyafbHTQA"] Hōkan-Ji Temple
+      o-location[image="images/japan/kyoto/13.jpg" to="https://maps.app.goo.gl/GiZ2BMR4gnGd6Tjk8"] Gion District?
+      o-location[image="images/japan/kyoto/14.jpg" to="https://maps.app.goo.gl/W59nxKUeGk8uw5xu7"] Adashino Nenbutsuji
+      o-location[image="images/japan/kyoto/15.jpg" to="https://maps.app.goo.gl/oueWHdbV1wnYKNBV8"] Sannenzaka Path
+      o-location[image="images/japan/kyoto/16.jpg" to="https://maps.app.goo.gl/ZrgTSS6nEkGofAhUA"] Maruyama Park
+      o-location[image="images/japan/kyoto/17.jpg" to="https://maps.app.goo.gl/rMapkWSRDDhNDZbS8"] Yasaka Shrine
+      o-location[image="images/japan/kyoto/18.jpg" to="https://maps.app.goo.gl/B1RzdtqjAq716NAd9"] Fushimi Minato Park
+      o-location[image="images/japan/kyoto/19.jpg" to="https://maps.app.goo.gl/MgTBCwkuEnW1v12Q7"] Somekobo Yumeyusai Inc. (Müze)
+      o-location[image="images/japan/kyoto/20.jpg" to="https://maps.app.goo.gl/YsWLc6kFMvZ3SG3J7"] Tenryu-Ji Temple
+      o-location[image="images/japan/kyoto/21.jpg" to="https://maps.app.goo.gl/hgvWNuPqWWjw4PdU6"] Ukimido (Floating Hall)
+      o-location[image="images/japan/kyoto/22.jpg" to="https://maps.app.goo.gl/9Lv3CGVXhQ19QY659"] Ryoanji Temple
+      o-location[image="images/japan/kyoto/23.jpg" to="https://maps.app.goo.gl/KcJBjSHaK23DLYix8"] Daigo-Ji Temple
+      o-location[image="images/japan/kyoto/24.jpg" to="https://maps.app.goo.gl/KxkFqakJLe5hN4sc7"] Ōiwa Shrine
+      o-location[image="images/japan/kyoto/25.jpg" to="https://maps.app.goo.gl/rqmVuLj8YKQHaMRp9"] Uji (Yeşil Çay Match Meşhur)
+      o-location[image="images/japan/kyoto/26.jpg" to="https://maps.app.goo.gl/y2Nte9YFe7BJcUCWA"] Nintendo Museum
+      o-location[image="images/japan/kyoto/27.jpg" to="https://maps.app.goo.gl/oGto4Jd6WjDgvMsS7"] Byodo-In Temple
+      o-location[image="images/japan/kyoto/28.jpg" to="https://maps.app.goo.gl/a7MKdZMkp9Kw2EYu8"] Nishiki Market
+      o-location[image="images/japan/kyoto/29.jpg" to="https://maps.app.goo.gl/MTwaV6qb2rzDNJA47"] Arashiyama Station (Renden Line Tram)
   o-card[height=300 width=400]
     o-title Nara
     o-list
-      o-location[image="images/nara/0.jpg" to="https://maps.app.goo.gl/fBm7QYrDzMBdYePL6"] Nara Park
-      o-location[image="images/nara/1.jpg" to="https://maps.app.goo.gl/u6ygKgwUNPV2vnd88"] Isuien Garden And Neiraku Museum
-      o-location[image="images/nara/2.jpg" to="https://maps.app.goo.gl/fhg7cpBwNucUpezn8"] Todai-Ji
-      o-location[image="images/nara/3.jpg" to="https://maps.app.goo.gl/su83wFj2R876eHzH8"] Shosoin Treasure House
-      o-location[image="images/nara/4.jpg" to="https://maps.app.goo.gl/itPedS4GsUtLgtWp6"] Goyomatsu Limestone Cave Monorail
-      o-location[image="images/nara/5.jpg" to="https://maps.app.goo.gl/Tw82Peg7caBA9bjC8"] Hase-Dera
+      o-location[image="images/japan/nara/0.jpg" to="https://maps.app.goo.gl/fBm7QYrDzMBdYePL6"] Nara Park
+      o-location[image="images/japan/nara/1.jpg" to="https://maps.app.goo.gl/u6ygKgwUNPV2vnd88"] Isuien Garden And Neiraku Museum
+      o-location[image="images/japan/nara/2.jpg" to="https://maps.app.goo.gl/fhg7cpBwNucUpezn8"] Todai-Ji
+      o-location[image="images/japan/nara/3.jpg" to="https://maps.app.goo.gl/su83wFj2R876eHzH8"] Shosoin Treasure House
+      o-location[image="images/japan/nara/4.jpg" to="https://maps.app.goo.gl/itPedS4GsUtLgtWp6"] Goyomatsu Limestone Cave Monorail
+      o-location[image="images/japan/nara/5.jpg" to="https://maps.app.goo.gl/Tw82Peg7caBA9bjC8"] Hase-Dera
   o-card[height=300 width=400]
     o-title Osaka
     o-list
-      o-location[image="images/osaka/0.jpg" to="https://maps.app.goo.gl/rvrUyKJSpc6xXM8z8"] Universal Studios 🎫
-      o-location[image="images/osaka/1.jpg" to="https://maps.app.goo.gl/bxjPxY1NShLAKWW99"] Hozenji 🌙 
-      o-location[image="images/osaka/2.jpg" to="https://maps.app.goo.gl/eLy8CcEpFj7pVM1r6"] Tsūtenkaku 🌙
-      o-location[image="images/osaka/3.jpg" to="https://maps.app.goo.gl/WbFETHFpvSQxLP6Z7"] Teamlab Botanica Garden 🎫🌙
-      o-location[image="images/osaka/4.jpg" to="https://maps.app.goo.gl/9TRYmHyCHGshPnGr9"] Dotonbori 🌙
-      o-location[image="images/osaka/5.jpg" to="https://maps.app.goo.gl/wuoBpqA2MGKJYTrd6"] Shinsaibashi
-      o-location[image="images/osaka/6.jpg" to="https://maps.app.goo.gl/iiJ62grdXUYC5iNb9"] Hozenji 🌙
-      o-location[image="images/osaka/7.jpg" to="https://maps.app.goo.gl/Mv5Vtdo9pM8HrFWc8"] Kuromon Ichiba Market
-      o-location[image="images/osaka/8.jpg" to="https://maps.app.goo.gl/LHjKqXydAGQpaSKS6"] Osaka Castle
-      o-location[image="images/osaka/9.jpg" to="https://maps.app.goo.gl/oaFYtLe6m7RQYQny6"] Namba Yasaka Shrine
-      o-location[image="images/osaka/10.jpg" to="https://maps.app.goo.gl/m9CXbCtdAPRefQM37"] Sumiyoshi Taisha Shrine
-      o-location[image="images/osaka/11.jpg" to="https://maps.app.goo.gl/cCE2WYFim9XXmxhz6"] Katsuo-Ji Temple
-      o-location[image="images/osaka/12.jpg" to="https://maps.app.goo.gl/u9uM7ZRUHeccAGwL7"] Minoh Park
-      o-location[image="images/osaka/13.jpg" to="https://maps.app.goo.gl/4yjVRXsE6sLV4jaR6"] Toho Cinemas Namba 
-      o-location[image="images/osaka/14.jpg" to="https://maps.app.goo.gl/nT8EzxJE8wgbYKoY7"] Ghibli Store (Donguri Kyowakoku) 
+      o-location[image="images/japan/osaka/0.jpg" to="https://maps.app.goo.gl/rvrUyKJSpc6xXM8z8"] Universal Studios 🎫
+      o-location[image="images/japan/osaka/1.jpg" to="https://maps.app.goo.gl/bxjPxY1NShLAKWW99"] Hozenji 🌙 
+      o-location[image="images/japan/osaka/2.jpg" to="https://maps.app.goo.gl/eLy8CcEpFj7pVM1r6"] Tsūtenkaku 🌙
+      o-location[image="images/japan/osaka/3.jpg" to="https://maps.app.goo.gl/WbFETHFpvSQxLP6Z7"] Teamlab Botanica Garden 🎫🌙
+      o-location[image="images/japan/osaka/4.jpg" to="https://maps.app.goo.gl/9TRYmHyCHGshPnGr9"] Dotonbori 🌙
+      o-location[image="images/japan/osaka/5.jpg" to="https://maps.app.goo.gl/wuoBpqA2MGKJYTrd6"] Shinsaibashi
+      o-location[image="images/japan/osaka/6.jpg" to="https://maps.app.goo.gl/iiJ62grdXUYC5iNb9"] Hozenji 🌙
+      o-location[image="images/japan/osaka/7.jpg" to="https://maps.app.goo.gl/Mv5Vtdo9pM8HrFWc8"] Kuromon Ichiba Market
+      o-location[image="images/japan/osaka/8.jpg" to="https://maps.app.goo.gl/LHjKqXydAGQpaSKS6"] Osaka Castle
+      o-location[image="images/japan/osaka/9.jpg" to="https://maps.app.goo.gl/oaFYtLe6m7RQYQny6"] Namba Yasaka Shrine
+      o-location[image="images/japan/osaka/10.jpg" to="https://maps.app.goo.gl/m9CXbCtdAPRefQM37"] Sumiyoshi Taisha Shrine
+      o-location[image="images/japan/osaka/11.jpg" to="https://maps.app.goo.gl/cCE2WYFim9XXmxhz6"] Katsuo-Ji Temple
+      o-location[image="images/japan/osaka/12.jpg" to="https://maps.app.goo.gl/u9uM7ZRUHeccAGwL7"] Minoh Park
+      o-location[image="images/japan/osaka/13.jpg" to="https://maps.app.goo.gl/4yjVRXsE6sLV4jaR6"] Toho Cinemas Namba 
+      o-location[image="images/japan/osaka/14.jpg" to="https://maps.app.goo.gl/nT8EzxJE8wgbYKoY7"] Ghibli Store (Donguri Kyowakoku) 
+      o-location[image="images/japan/osaka/15.jpg" to="https://maps.app.goo.gl/3JDUHgykLS6mGGJv5"] Retro TV Game Revival
   o-card[height=300 width=400]
     o-title Hiroshima
     o-list
-      o-location[image="images/hiroshima/0.jpg" to="https://maps.app.goo.gl/gKYfVpiqK5qB5Tj4A"] Itsukushima Jinja
-      o-location[image="images/hiroshima/1.jpg" to="https://maps.app.goo.gl/rGGsHxcY63zc37Tv5"] Peace Memorial Park
-      o-location[image="images/hiroshima/2.jpg" to="https://maps.app.goo.gl/P9t8vK4h7BqtJekK9"] Hiroshima Castle
+      o-location[image="images/japan/hiroshima/0.jpg" to="https://maps.app.goo.gl/gKYfVpiqK5qB5Tj4A"] Itsukushima Jinja
+      o-location[image="images/japan/hiroshima/1.jpg" to="https://maps.app.goo.gl/rGGsHxcY63zc37Tv5"] Peace Memorial Park
+      o-location[image="images/japan/hiroshima/2.jpg" to="https://maps.app.goo.gl/P9t8vK4h7BqtJekK9"] Hiroshima Castle
   o-card[height=300 width=400]
     o-title Nagano
     o-list
-      o-location[image="images/nagano/0.jpg" to="https://maps.app.goo.gl/LFiJzvfDNXAeVUnK9"] Matsumoto-Jō Castle
-      o-location[image="images/nagano/1.jpg" to="https://maps.app.goo.gl/3YdiQac4K4yd5oo37"] Shinbu Onsen
-      o-location[image="images/nagano/2.jpg" to="https://maps.app.goo.gl/28Euw1HJw6jg2SbHA"] Narai-juku
-      o-location[image="images/nagano/3.jpg" to="https://maps.app.goo.gl/1qphTSEG6vhw7TAt5"] Jigokundai Snow Monkey Park
-      o-location[image="images/nagano/4.jpg" to="https://maps.app.goo.gl/K4wBDaP5MpVuXKY96"] Togakushi Shrine
-      o-location[image="images/nagano/5.jpg" to="https://maps.app.goo.gl/Tc3XbRP6yb6uu3Ft6"] Yohashira Jinja Shrine
-      o-location[image="images/nagano/5.jpg" to="https://maps.app.goo.gl/DgXeVmWbbaZ8XFy49"] Zenko-Ji Temple
+      o-location[image="images/japan/nagano/0.jpg" to="https://maps.app.goo.gl/LFiJzvfDNXAeVUnK9"] Matsumoto-Jō Castle
+      o-location[image="images/japan/nagano/1.jpg" to="https://maps.app.goo.gl/3YdiQac4K4yd5oo37"] Shinbu Onsen
+      o-location[image="images/japan/nagano/2.jpg" to="https://maps.app.goo.gl/28Euw1HJw6jg2SbHA"] Narai-juku
+      o-location[image="images/japan/nagano/3.jpg" to="https://maps.app.goo.gl/1qphTSEG6vhw7TAt5"] Jigokundai Snow Monkey Park
+      o-location[image="images/japan/nagano/4.jpg" to="https://maps.app.goo.gl/K4wBDaP5MpVuXKY96"] Togakushi Shrine
+      o-location[image="images/japan/nagano/5.jpg" to="https://maps.app.goo.gl/Tc3XbRP6yb6uu3Ft6"] Yohashira Jinja Shrine
+      o-location[image="images/japan/nagano/5.jpg" to="https://maps.app.goo.gl/DgXeVmWbbaZ8XFy49"] Zenko-Ji Temple
   o-card[height=300 width=400]
     o-title Diğer
     o-list
-      o-location[image="images/diger/0.jpg" to="https://maps.app.goo.gl/TzPJqKfbvSpe89b8A"] Ibaraki - Hitachi Seaside Park
-      o-location[image="images/diger/1.jpg" to="https://www.google.com/maps/dir/Kyoto,+Japan/Kamo-jinja+Shrine,+Dendo-16-2+Keihokunakaecho,+Ukyo+Ward,+Kyoto,+601-0315,+Japan/@35.0439802,135.5916642,10.75z/data=!4m14!4m13!1m5!1m1!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!2m2!1d135.7681489!2d35.011564!1m5!1m1!1s0x6001b371a124e9f5:0x9bdafab006d28141!2m2!1d135.6703592!2d35.1748849!3e0?entry=ttu"] Kyoto - Kamo Jinja Shrine 🚗
-      o-location[image="images/diger/2.jpg" to="https://maps.app.goo.gl/1aSXKybgtaDjy3JJ9"] Kyoto - Amanohashidate Viewland
-      o-location[image="images/diger/3.jpg" to="https://maps.app.goo.gl/ditodvNBzZr4qcBaA"] Kobe - Ikuta Jinja (Oldest Shrine)
-      o-location[image="images/diger/4.jpg" to="https://maps.app.goo.gl/gMQXURWiMhzEpkU2A"] Tottori - Tottori Sand Dunes
-      o-location[image="images/diger/5.jpg" to="https://maps.app.goo.gl/ozyf4bCqBJMU27Do8"] Yamaguchi - Akiyoshido Cave
-      o-location[image="images/diger/6.jpg" to="https://maps.app.goo.gl/QoNAUARZVZ4b9qkP7"] Yamaguchi - Tsunoshima Bridge Observatory
-      o-location[image="images/diger/7.jpg" to="https://maps.app.goo.gl/SkLSHjz3HRQmhczg6"] Fukuoka - Sugawara Shrine
-      o-location[image="images/diger/8.jpg" to="https://maps.app.goo.gl/2cMEyKiAGmyUupKa7"] Fukuoka - Tsunoshima Observatory
-      o-location[image="images/diger/9.jpg" to="https://maps.app.goo.gl/q6v8fK7f3YcJ4Ksm7"] Fukuoka - Miyajidake Shrine
+      o-location[image="images/japan/diger/0.jpg" to="https://maps.app.goo.gl/TzPJqKfbvSpe89b8A"] Ibaraki - Hitachi Seaside Park
+      o-location[image="images/japan/diger/1.jpg" to="https://www.google.com/maps/dir/Kyoto,+Japan/Kamo-jinja+Shrine,+Dendo-16-2+Keihokunakaecho,+Ukyo+Ward,+Kyoto,+601-0315,+Japan/@35.0439802,135.5916642,10.75z/data=!4m14!4m13!1m5!1m1!1s0x6001a8d6cd3cc3f1:0xc0961d366bbb1d3d!2m2!1d135.7681489!2d35.011564!1m5!1m1!1s0x6001b371a124e9f5:0x9bdafab006d28141!2m2!1d135.6703592!2d35.1748849!3e0?entry=ttu"] Kyoto - Kamo Jinja Shrine 🚗
+      o-location[image="images/japan/diger/2.jpg" to="https://maps.app.goo.gl/1aSXKybgtaDjy3JJ9"] Kyoto - Amanohashidate Viewland
+      o-location[image="images/japan/diger/3.jpg" to="https://maps.app.goo.gl/ditodvNBzZr4qcBaA"] Kobe - Ikuta Jinja (Oldest Shrine)
+      o-location[image="images/japan/diger/4.jpg" to="https://maps.app.goo.gl/gMQXURWiMhzEpkU2A"] Tottori - Tottori Sand Dunes
+      o-location[image="images/japan/diger/5.jpg" to="https://maps.app.goo.gl/ozyf4bCqBJMU27Do8"] Yamaguchi - Akiyoshido Cave
+      o-location[image="images/japan/diger/6.jpg" to="https://maps.app.goo.gl/QoNAUARZVZ4b9qkP7"] Yamaguchi - Tsunoshima Bridge Observatory
+      o-location[image="images/japan/diger/7.jpg" to="https://maps.app.goo.gl/SkLSHjz3HRQmhczg6"] Fukuoka - Sugawara Shrine
+      o-location[image="images/japan/diger/8.jpg" to="https://maps.app.goo.gl/2cMEyKiAGmyUupKa7"] Fukuoka - Tsunoshima Observatory
+      o-location[image="images/japan/diger/9.jpg" to="https://maps.app.goo.gl/q6v8fK7f3YcJ4Ksm7"] Fukuoka - Miyajidake Shrine
+      o-location[image="images/japan/diger/10.jpg" to="https://maps.app.goo.gl/5Lg57vW8p9eceaPN9"] Nagano - Narai-Juku
+  o-card[height=300 width=400]
+    o-title Yemek - Genel
+    o-list
+      o-location[image="images/japan/food/1.jpg"] Cremia
+      o-location[image="images/japan/food/2.jpg"] Dango
+  o-card[height=300 width=400]
+    o-title Yemek - Tokyo
+    o-list
+      o-location[image="images/japan/food/3.jpg"] Mister Donut
+      o-location[image="images/japan/food/4.jpg" to="https://maps.app.goo.gl/nXtYmr43VbbFsUkS9"] Sushi Ko Ueno
+      o-location[image="images/japan/food/5.jpg" to="https://maps.app.goo.gl/7Giv5BoPYdTpM6hr5"] Heckeln(Creme Brulee Eşref Amca) (Öğleden önce git)
+      o-location[image="images/japan/food/6.jpg" to="https://maps.app.goo.gl/7Giv5BoPYdTpM6hr5"] Gyutan Ara
+      o-location[image="images/japan/food/7.jpg" to="https://maps.app.goo.gl/Q5QQWftiBiXQT3Cr7"] Tonkatsu Suzuki (Tonkatsu)
+      o-location[image="images/japan/food/8.jpg" to="https://maps.app.goo.gl/aEpeM9YFvNFguscH6"] Tonkatsu Hajime Nihonbashi (Tonkatsu)
+      o-location[image="images/japan/food/9.jpg" to="https://maps.app.goo.gl/qz6EeBZcZ8Fg6LkM7"] Hatoya Ryoyousha (Maccha)
+      o-location[image="images/japan/food/10.jpg" to="https://maps.app.goo.gl/9goEATKRzoXiwJ277"] Shan (Iced Coffee Au Lait) (Asakusa)
+      o-location[image="images/japan/food/11.jpg" to="https://maps.app.goo.gl/ksVHsMHZzRKshukF7"] Kotoimo Honpo (Dango)
+      o-location[image="images/japan/food/12.jpg" to="https://maps.app.goo.gl/YcadKkDBd5qq6nQz6"] Mega Don Quijote (10yen Cake)
+      o-location[image="images/japan/food/13.jpg" to="https://maps.app.goo.gl/4U4TLTxSLGrv9e5A7"] Kyuei Melon Pan
+      o-location[image="images/japan/food/14.jpg" to="https://maps.app.goo.gl/yRkjNF1ZAybUPHCZ7"] Tototo (Italian-Japanese)
+      o-location[image="images/japan/food/15.jpg" to="https://maps.app.goo.gl/v92jnpsiywpEExBd9"] Eni Kaita Mochi Tsukiji Store (Cheesecake & Pistachio Mochi)
+      o-location[image="images/japan/food/16.jpg" to="https://maps.app.goo.gl/GXxtXHP4VB3qwc1n8"] Perfect Beer Kitchen Nishiogikubo
+      o-location[image="images/japan/food/17.jpg" to="https://maps.app.goo.gl/mFav1hgzxVhbmL8o6"] Mont-Nom (Croissant Variant Bakery)
+      o-location[image="images/japan/food/18.jpg" to="https://maps.app.goo.gl/bL87hEsqVJdxSeK76"] American Ginza (Sandwich)
+      o-location[image="images/japan/food/19.jpg" to="https://maps.app.goo.gl/kfvkJwvhK5XZzM9T9"] Benitsuru (Pancake)
+      o-location[image="images/japan/food/20.jpg" to="https://maps.app.goo.gl/qbCLTa264KKWXKzm8"] Latte Art Mania (Black Latte)
+      o-location[image="images/japan/food/21.jpg" to="https://maps.app.goo.gl/7594DWpSNQFiZLzR8"] Kippōshi (Blue Ramen)
+      o-location[image="images/japan/food/22.jpg" to="https://maps.app.goo.gl/dnmWy3jwHBA7NwkR8"] Meat &Cheese Forne (Cheesy Pasta)
+  o-card[height=300 width=400]
+    o-title Yemek - Kyoto
+    o-list
+      o-location[image="images/japan/food/23.jpg" to="https://maps.app.goo.gl/7DNxGHxudUa382Ex5"] Kichi Kichi Omurice 🎫
+      o-location[image="images/japan/food/24.jpg" to="https://maps.app.goo.gl/gh6hmrmfZHBYVUN28"] Kyozuan(Ice Cream)
+      o-location[image="images/japan/food/25.jpg" to="https://maps.app.goo.gl/SghdzfM7DbK2EYkZ7"] Yuba Cheese Honpo (Fried Sticks)
+      o-location[image="images/japan/food/26.jpg" to="https://maps.app.goo.gl/rbW7UW2pzsgL2MRcA"] Mamemono To Taiyaki Arashiyama Honten (Taiyaki)
+      o-location[image="images/japan/food/27.jpg" to="https://maps.app.goo.gl/sMkJ5u9yt39u1xSb8"] Maccha House (Matcha Tiramisu)
+      o-location[image="images/japan/food/28.jpg" to="https://maps.app.goo.gl/hh6kiKwwQ9eFVTzG8"] 10 Yen Coin Pancake
+      o-location[image="images/japan/food/29.jpg" to="https://maps.app.goo.gl/eAVakxtTDcftjWHv5"] Yudofu (Tofu)
+      o-location[image="images/japan/food/30.jpg" to="https://maps.app.goo.gl/KtvfohDhdYJWD5rz8"] Marumochiya (Fried Mochi)
+      o-location[image="images/japan/food/31.jpg" to="https://maps.app.goo.gl/HgBuZN5aBxJPtBvbA"] Kameyamaya (Udon)
+      o-location[image="images/japan/food/32.jpg" to="https://maps.app.goo.gl/bs7VaKGhVaFgHbAA9"] Nishiki Market (Tako Tamago)
+      o-location[image="images/japan/food/33.jpg" to="https://maps.app.goo.gl/bs7VaKGhVaFgHbAA9"] Nishiki Market Michelin (Pork Gyoza)
+      o-location[image="images/japan/food/34.jpg" to="https://maps.app.goo.gl/zQPvekeCaggvF2dx6"] Kumonocha Tea House Gosho (Cloud Cake)
+      o-location[image="images/japan/food/35.jpg" to="https://maps.app.goo.gl/d3qfsK9Z1AMkKgVR7"] Sugari (Ramen)
+      o-location[image="images/japan/food/36.jpg" to="https://maps.app.goo.gl/n3e72cS7b5KM2edN9"] Ikkyu-An (Dango Plate)
+      o-location[image="images/japan/food/37.jpg" to="https://maps.app.goo.gl/TPUEiZFhFGNLPwxB8"] Gion Komori (Warabi Mochi Jiggly)
+      o-location[image="images/japan/food/38.jpg" to="https://maps.app.goo.gl/yGgX6MDA4Ba5EjjT7"] Hirobun (Bamboo Noodle)
+  o-card[height=300 width=400]
+    o-title Yemek - Nara
+    o-list
+      o-location[image="images/japan/food/39.jpg" to="https://maps.app.goo.gl/eFbWNeg148MqMgFK7"] Nakatanidou (Daifuku Mochi Filled)
+  o-card[height=300 width=400]
+    o-title Yemek - Osaka
+    o-list
+      o-location[image="images/japan/food/40.jpg" to="https://maps.app.goo.gl/i8qNBztJwcaEbHFY7"] Rikuro’S Namba Main Branch (Cheesecake)
+      o-location[image="images/japan/food/41.jpg" to="https://maps.app.goo.gl/ZEjbRszLoijFuHGJ7"] Onigiri Gorichan (Onigiri)
+      o-location[image="images/japan/food/42.jpg" to="https://maps.app.goo.gl/NeucZsaA5K6DByf5A"] Robatayaki Tsumago
+      o-location[image="images/japan/food/43.jpg" to="https://maps.app.goo.gl/kJSi4GJN72RVUgUY8"] Deepening Submarine Bar Shinka
+      o-location[image="images/japan/food/44.jpg" to="https://maps.app.goo.gl/SM3VLCSQZ5q9HqpW6"] Gariguette
+      o-location[image="images/japan/food/45.jpg" to="https://maps.app.goo.gl/pvGirfySiHKFBEiY7"] Hanamaruken Namba Hozenji (24h Ramen)
+      o-location[image="images/japan/food/46.jpg" to="https://maps.app.goo.gl/5NAaHZJqvkpoV3c86"] Janjan-Yokocho Nanyodori Shopping Street (Waffle Stick)
+      o-location[image="images/japan/food/47.jpg" to="https://maps.app.goo.gl/S16k8oJzDbMnTBmH8"] Suntory Whisky House
+      o-location[image="images/japan/food/48.jpg" to="https://maps.app.goo.gl/uuHV4ExjkVsZA2CMA"] Takoyaki Juhachiban Dotonbori (Takoyaki)
+      o-location[image="images/japan/food/49.jpg" to="https://maps.app.goo.gl/pyN5res59evnkZAg6"] Dogyan Noodle & Shaved Ice (Ghibli 😋)
+      o-location[image="images/japan/food/50.jpg" to="https://maps.app.goo.gl/ygnMwDgvJX7DuGU86"] Bar Call me Tell me
+  o-card[height=300 width=400]
+    o-title Yemek - Okayama
+    o-list
+      o-location[image="images/japan/food/51.jpg" to="https://maps.app.goo.gl/7Uy5STEaL5tLrByv9"] Nono White (Shiratama Dango Mochi Bouncy)
+  o-card[height=300 width=400]
+    o-title Yemek - Hiroshima
+    o-list
+    o-location[image="images/japan/food/52.jpg"] Okonomiyaki
