@@ -207,6 +207,11 @@ o-list[justify=center class=test]
       o-location[image="images/japan/tokyo/29.jpg" to="https://maps.app.goo.gl/KMxQKs2bDUHdti9n8"] Harry Potter Cafe (Bölgede dükkanlar var)
       o-location[image="images/japan/tokyo/30.jpg" to="https://maps.app.goo.gl/Pf4EVJogyTawwbZq6"] Tokyo Kimono Shoes
       o-location[image="images/japan/tokyo/31.jpg" to="https://maps.app.goo.gl/Vwokac4SjfLnSe1KA"] Nakameguro
+      o-location[image="images/japan/tokyo/32.jpg" to="https://maps.app.goo.gl/nHtpWHgfuUGy1dWm9"] Niche Tours
+      o-location[image="images/japan/tokyo/33.jpg" to="https://maps.app.goo.gl/56RqJt4odky9SNNMA"] Daikoku Parking Area
+      o-location[image="images/japan/tokyo/34.jpg" to="https://maps.app.goo.gl/YnU5GJ4wRE9WexQC6"] Jindaiji Temple
+      o-location[image="images/japan/tokyo/35.jpg" to="https://maps.app.goo.gl/FRosPN4j9zaWJXdh9"] NTV Tower
+      o-location[image="images/japan/tokyo/36.jpg" to="https://maps.app.goo.gl/hPaFZw27xoRr3YJy6"] POOP MUSEUM
   o-card[height=300 width=400]
     o-title Fuji
     o-list
@@ -304,7 +309,8 @@ o-list[justify=center class=test]
       o-location[image="images/japan/nagano/3.jpg" to="https://maps.app.goo.gl/1qphTSEG6vhw7TAt5"] Jigokundai Snow Monkey Park
       o-location[image="images/japan/nagano/4.jpg" to="https://maps.app.goo.gl/K4wBDaP5MpVuXKY96"] Togakushi Shrine
       o-location[image="images/japan/nagano/5.jpg" to="https://maps.app.goo.gl/Tc3XbRP6yb6uu3Ft6"] Yohashira Jinja Shrine
-      o-location[image="images/japan/nagano/5.jpg" to="https://maps.app.goo.gl/DgXeVmWbbaZ8XFy49"] Zenko-Ji Temple
+      o-location[image="images/japan/nagano/6.jpg" to="https://maps.app.goo.gl/DgXeVmWbbaZ8XFy49"] Zenko-Ji Temple
+      o-location[image="images/japan/nagano/7.jpg" to="https://maps.app.goo.gl/5Lg57vW8p9eceaPN9"] Narai-Juku
   o-card[height=300 width=400]
     o-title Diğer
     o-list
@@ -318,7 +324,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/diger/7.jpg" to="https://maps.app.goo.gl/SkLSHjz3HRQmhczg6"] Fukuoka - Sugawara Shrine
       o-location[image="images/japan/diger/8.jpg" to="https://maps.app.goo.gl/2cMEyKiAGmyUupKa7"] Fukuoka - Tsunoshima Observatory
       o-location[image="images/japan/diger/9.jpg" to="https://maps.app.goo.gl/q6v8fK7f3YcJ4Ksm7"] Fukuoka - Miyajidake Shrine
-      o-location[image="images/japan/diger/10.jpg" to="https://maps.app.goo.gl/5Lg57vW8p9eceaPN9"] Nagano - Narai-Juku
+      o-location[image="images/japan/diger/10.jpg" to="https://maps.app.goo.gl/AudxY1BePRJNzxpv9"] Kagawa - Shōdoshima
   o-card[height=300 width=400]
     o-title Yemek - Genel
     o-list
@@ -347,6 +353,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/food/20.jpg" to="https://maps.app.goo.gl/qbCLTa264KKWXKzm8"] Latte Art Mania (Black Latte)
       o-location[image="images/japan/food/21.jpg" to="https://maps.app.goo.gl/7594DWpSNQFiZLzR8"] Kippōshi (Blue Ramen)
       o-location[image="images/japan/food/22.jpg" to="https://maps.app.goo.gl/dnmWy3jwHBA7NwkR8"] Meat &Cheese Forne (Cheesy Pasta)
+      o-location[image="images/japan/food/53.jpg" to="https://maps.app.goo.gl/2wEKGAKsJyjUSviH9"] GOKU BURGER ゴクバーガー
   o-card[height=300 width=400]
     o-title Yemek - Kyoto
     o-list
