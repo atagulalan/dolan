@@ -78,7 +78,7 @@ o-list[justify=center class=test]
       o-line
       o-sub-title Kyoto
       o-item[title="Traditional Machiya House"] Geleneksel Evler
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yorumlar
     o-comment
       | Motonosumishrine is the one in Yamaguchi prefecture right ? I remember deciding to drive from there to Fukuoka kind of late in the day and I ended up lost in the mountains for a little while at midnight with no service and it was pretty spooky 
@@ -149,7 +149,7 @@ o-list[justify=center class=test]
       | Tombori River Cruise
       | What it is: Float through mesmerizing lights along the Dotonbori river.
       | When to book: on the day or earlier to secure preferred time reservation.
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title İpuçları
     o-sub-title Uçaktan İniş
     o-comment
@@ -172,7 +172,7 @@ o-list[justify=center class=test]
     o-comment
       | Narita Havaalanı'ndan Merkezi Tokyo'ya Ulaşım
       | Narita Havaalanı'ndan merkezi Tokyo'ya gitmenin birkaç yolu vardır ve en iyi seçenek, nereye gideceğinize ve bütçenize bağlıdır. Daha hızlı bir şekilde merkezi Tokyo'ya ulaşmak isteyenler için JR Narita Express ve Keisei Skyliner, trenle Tokyo'ya doğrudan seyahat etmenin hızlı yollarını sağlar. Daha yavaş ve daha ucuz tren seçenekleri arasında ise düzenli Keisei ekspres trenleri bulunmaktadır. Narita Havaalanı'ndan Tokyo'ya iki ana türde otobüs bulunmaktadır: pahalı Havalimanı Limuzinleri, birçok merkezi Tokyo istasyonu ve oteline uğrayan ve daha az yerle bağlantılı olan daha ucuz indirimli servis otobüsleri. Taksiler de merkezi Tokyo'ya ulaşmak için kullanılabilir, ancak unutmayın ki bu şimdiye kadarki en pahalı seçenektir. 
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Tokyo
     o-list
       o-location[image="images/japan/tokyo/0.jpg" to="https://maps.app.goo.gl/V8uRCHgbecXfjgdBA"] Disneyland & Disneysea
@@ -212,7 +212,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/tokyo/34.jpg" to="https://maps.app.goo.gl/YnU5GJ4wRE9WexQC6"] Jindaiji Temple
       o-location[image="images/japan/tokyo/35.jpg" to="https://maps.app.goo.gl/FRosPN4j9zaWJXdh9"] NTV Tower
       o-location[image="images/japan/tokyo/36.jpg" to="https://maps.app.goo.gl/hPaFZw27xoRr3YJy6"] POOP MUSEUM
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Fuji
     o-list
       o-location[image="images/japan/fuji/0.jpg" to="https://maps.app.goo.gl/hFG5iVtTtxpq6SUc9"] Lake Kawaguchi
@@ -225,7 +225,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/fuji/7.jpg" to="https://maps.app.goo.gl/nYQjp5GXfQAjEGVb8"] Oshino Hakkai Springs
       o-location[image="images/japan/fuji/8.jpg" to="https://maps.app.goo.gl/tK8osdqaJxUQs5ig8"] Fuji-Q Highland & Naruto x Boruto
       o-location[image="images/japan/fuji/9.jpg" to="https://maps.app.goo.gl/eHmVDinLJDafbRb69"] Fujiyama Twin Terrace*
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Nagoya
     o-list
       o-location[image="images/japan/nagoya/0.jpg" to="https://maps.app.goo.gl/YRFkmxY868bkLsvB9"] Ghibli Park 🎫
@@ -233,7 +233,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/nagoya/2.jpg" to="https://maps.app.goo.gl/HXMkCYLK6WH7mTHG8"] Nagoya Castle
       o-location[image="images/japan/nagoya/3.jpg" to="https://maps.app.goo.gl/hBL2Pi1iutGaTH3w5"] Osu Kannon
       o-location[image="images/japan/nagoya/4.jpg" to="https://maps.app.goo.gl/yN1BfNRD5uEgf5sKA"] Atsuta Shrine
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Kyoto
     o-list
       o-location[image="images/japan/kyoto/0.jpg" to="https://maps.app.goo.gl/hx1bZyw378xt5Qgm6"] Pontocho Park
@@ -266,7 +266,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/kyoto/27.jpg" to="https://maps.app.goo.gl/oGto4Jd6WjDgvMsS7"] Byodo-In Temple
       o-location[image="images/japan/kyoto/28.jpg" to="https://maps.app.goo.gl/a7MKdZMkp9Kw2EYu8"] Nishiki Market
       o-location[image="images/japan/kyoto/29.jpg" to="https://maps.app.goo.gl/MTwaV6qb2rzDNJA47"] Arashiyama Station (Renden Line Tram)
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Nara
     o-list
       o-location[image="images/japan/nara/0.jpg" to="https://maps.app.goo.gl/fBm7QYrDzMBdYePL6"] Nara Park
@@ -275,7 +275,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/nara/3.jpg" to="https://maps.app.goo.gl/su83wFj2R876eHzH8"] Shosoin Treasure House
       o-location[image="images/japan/nara/4.jpg" to="https://maps.app.goo.gl/itPedS4GsUtLgtWp6"] Goyomatsu Limestone Cave Monorail
       o-location[image="images/japan/nara/5.jpg" to="https://maps.app.goo.gl/Tw82Peg7caBA9bjC8"] Hase-Dera
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Osaka
     o-list
       o-location[image="images/japan/osaka/0.jpg" to="https://maps.app.goo.gl/rvrUyKJSpc6xXM8z8"] Universal Studios 🎫
@@ -294,13 +294,13 @@ o-list[justify=center class=test]
       o-location[image="images/japan/osaka/13.jpg" to="https://maps.app.goo.gl/4yjVRXsE6sLV4jaR6"] Toho Cinemas Namba 
       o-location[image="images/japan/osaka/14.jpg" to="https://maps.app.goo.gl/nT8EzxJE8wgbYKoY7"] Ghibli Store (Donguri Kyowakoku) 
       o-location[image="images/japan/osaka/15.jpg" to="https://maps.app.goo.gl/3JDUHgykLS6mGGJv5"] Retro TV Game Revival
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Hiroshima
     o-list
       o-location[image="images/japan/hiroshima/0.jpg" to="https://maps.app.goo.gl/gKYfVpiqK5qB5Tj4A"] Itsukushima Jinja
       o-location[image="images/japan/hiroshima/1.jpg" to="https://maps.app.goo.gl/rGGsHxcY63zc37Tv5"] Peace Memorial Park
       o-location[image="images/japan/hiroshima/2.jpg" to="https://maps.app.goo.gl/P9t8vK4h7BqtJekK9"] Hiroshima Castle
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Nagano
     o-list
       o-location[image="images/japan/nagano/0.jpg" to="https://maps.app.goo.gl/LFiJzvfDNXAeVUnK9"] Matsumoto-Jō Castle
@@ -311,7 +311,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/nagano/5.jpg" to="https://maps.app.goo.gl/Tc3XbRP6yb6uu3Ft6"] Yohashira Jinja Shrine
       o-location[image="images/japan/nagano/6.jpg" to="https://maps.app.goo.gl/DgXeVmWbbaZ8XFy49"] Zenko-Ji Temple
       o-location[image="images/japan/nagano/7.jpg" to="https://maps.app.goo.gl/5Lg57vW8p9eceaPN9"] Narai-Juku
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Diğer
     o-list
       o-location[image="images/japan/diger/0.jpg" to="https://maps.app.goo.gl/TzPJqKfbvSpe89b8A"] Ibaraki - Hitachi Seaside Park
@@ -325,12 +325,12 @@ o-list[justify=center class=test]
       o-location[image="images/japan/diger/8.jpg" to="https://maps.app.goo.gl/2cMEyKiAGmyUupKa7"] Fukuoka - Tsunoshima Observatory
       o-location[image="images/japan/diger/9.jpg" to="https://maps.app.goo.gl/q6v8fK7f3YcJ4Ksm7"] Fukuoka - Miyajidake Shrine
       o-location[image="images/japan/diger/10.jpg" to="https://maps.app.goo.gl/AudxY1BePRJNzxpv9"] Kagawa - Shōdoshima
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Genel
     o-list
       o-location[image="images/japan/food/1.jpg"] Cremia
       o-location[image="images/japan/food/2.jpg"] Dango
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Tokyo
     o-list
       o-location[image="images/japan/food/3.jpg"] Mister Donut
@@ -354,7 +354,7 @@ o-list[justify=center class=test]
       o-location[image="images/japan/food/21.jpg" to="https://maps.app.goo.gl/7594DWpSNQFiZLzR8"] Kippōshi (Blue Ramen)
       o-location[image="images/japan/food/22.jpg" to="https://maps.app.goo.gl/dnmWy3jwHBA7NwkR8"] Meat &Cheese Forne (Cheesy Pasta)
       o-location[image="images/japan/food/53.jpg" to="https://maps.app.goo.gl/2wEKGAKsJyjUSviH9"] GOKU BURGER ゴクバーガー
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Kyoto
     o-list
       o-location[image="images/japan/food/23.jpg" to="https://maps.app.goo.gl/7DNxGHxudUa382Ex5"] Kichi Kichi Omurice 🎫
@@ -373,11 +373,11 @@ o-list[justify=center class=test]
       o-location[image="images/japan/food/36.jpg" to="https://maps.app.goo.gl/n3e72cS7b5KM2edN9"] Ikkyu-An (Dango Plate)
       o-location[image="images/japan/food/37.jpg" to="https://maps.app.goo.gl/TPUEiZFhFGNLPwxB8"] Gion Komori (Warabi Mochi Jiggly)
       o-location[image="images/japan/food/38.jpg" to="https://maps.app.goo.gl/yGgX6MDA4Ba5EjjT7"] Hirobun (Bamboo Noodle)
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Nara
     o-list
       o-location[image="images/japan/food/39.jpg" to="https://maps.app.goo.gl/eFbWNeg148MqMgFK7"] Nakatanidou (Daifuku Mochi Filled)
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Osaka
     o-list
       o-location[image="images/japan/food/40.jpg" to="https://maps.app.goo.gl/i8qNBztJwcaEbHFY7"] Rikuro’S Namba Main Branch (Cheesecake)
@@ -391,11 +391,11 @@ o-list[justify=center class=test]
       o-location[image="images/japan/food/48.jpg" to="https://maps.app.goo.gl/uuHV4ExjkVsZA2CMA"] Takoyaki Juhachiban Dotonbori (Takoyaki)
       o-location[image="images/japan/food/49.jpg" to="https://maps.app.goo.gl/pyN5res59evnkZAg6"] Dogyan Noodle & Shaved Ice (Ghibli 😋)
       o-location[image="images/japan/food/50.jpg" to="https://maps.app.goo.gl/ygnMwDgvJX7DuGU86"] Bar Call me Tell me
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Okayama
     o-list
       o-location[image="images/japan/food/51.jpg" to="https://maps.app.goo.gl/7Uy5STEaL5tLrByv9"] Nono White (Shiratama Dango Mochi Bouncy)
-  o-card[height=300 width=400]
+  o-card[width=400]
     o-title Yemek - Hiroshima
     o-list
     o-location[image="images/japan/food/52.jpg"] Okonomiyaki
